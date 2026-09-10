@@ -60,6 +60,7 @@ public class CaseStudy12 {
         b.displayBalance();
         b.withdraw();
         b.deposit();
+        b.withdraw();
         b.displayBalance();
     }
 }
