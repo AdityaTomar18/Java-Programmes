@@ -10,7 +10,7 @@ class busBooking {
 
     void booking() {
         Scanner input = new Scanner(System.in);
-        System.out.println(" ==== BUS BOOKING SYSTEM ====");
+        System.out.println(" ==== BUS BOOKING SYSTEM ==== ");
         System.out.println("-> Available Seats : " + avlSeats);
 
         try {
